@@ -1,0 +1,1 @@
+### 使用 requirejs、angularjs、localStorage 做的一个简易便签 demo
