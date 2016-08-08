@@ -1,0 +1,36 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "使用 requirejs、angularjs、localStorage 做的一个简易便签 demo",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karam start test/config/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenpeng1102/require-angular-todos.git"
+  },
+  "keywords": [
+    "requirejs",
+    "angular",
+    "localStorage",
+    "karma",
+    "gulp"
+  ],
+  "author": "chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenpeng1102/require-angular-todos/issues"
+  },
+  "homepage": "https://github.com/chenpeng1102/require-angular-todos#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.2",
+    "karma-jasmine": "^1.0.2",
+    "karma-requirejs": "^1.0.0",
+    "requirejs": "^2.2.0"
+  }
+}
